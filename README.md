@@ -3,3 +3,4 @@
 
 ### Exercise 1: Classifying cats and dogs
 ### Exercise 2: Cats vs. Dogs using augmentation
+### Exercise 3 - Horses vs. humans using Transfer Learning
